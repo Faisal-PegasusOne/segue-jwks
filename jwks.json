@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+	  "kty": "RSA",
+	  "n": "pwYUqSMMGvGKt4ws-_iZN0RnHRnY8n2DV49aS8Qg-XwUi4sYNmw9yqSyayzdTW_iHrofmAFSDgG64XSdJLiws76tT-VTiSnKAhVA1MuFUqPVQ0Qgfv0B4GFgx5mkNLUsCeDScuP0GlGlzNCPNq4DYt0xW7viifYsaOWxmFe2Jx2-vEN9WaDqz-XRm8_I-jLcR53QJCMM1v5LdEa-DxHHqDvEvX7kLkaYUiwwJN9yzcpbuu9Gzy1gUGy7R12U-cIxoBumMmal2caf289mHYldmaMsDemk2cSXM-sSDvNW3q5OB5thWOOU-VrC_m_VUhhneJ11CNfJwCtGS1nufIuaTQ",
+	  "e": "AQAB",
+	  "kid": "segue-ecw-nonprod-20260821",
+	  "use": "sig",
+	  "alg": "RS384"
+	}
+  ]
+}
