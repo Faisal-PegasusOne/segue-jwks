@@ -18,11 +18,11 @@
     },
 	{
       "kty": "RSA",
-      "n": "_jLEp8BwXDhVN8W7wDxgY-Lp9affzfwkX0UThT_GpugmmrO5DtJnKd2RshKKek_LEozMmhiGcieoRYNTbZsHTKpey7h8_V9BgHQsYj60juFGktf8Gi1QOBksFtFUpIJjoS4qypEpZvgA-gEXsPhkAcmWXhvRW-gAk9pFbOrG7fJcGWLlbdT25XLolfRSaHt0dM6bSxeaZkKZSVkUjfvVPtsxdeZdl7sMePRw5hT4wlpsdPV-wdLG3xIYdspntTzwPxNCd-Iaf3yCXlxenrH9y-4r2gQ73t5posLQ2X-X_VVBJ2LPgO02gjY_DGFh5-SHhRrM5V4ijGgT2FCXLZuNxw",
+      "n": "mu69qwxSNJAdB6lIxkmno4ZSSVeNRV_DKgdhWSrvEtLv_CNe_3YoU5xF5RQbkBCYo_2PmewoW67YpE7hjYLO1RV1lmat2cjWS7VMLakIE8s-k7Xa-Nb0Am5bjletpu5blFoW_LmDYLNLIeNXp3GfqzRXI2yEtJ_3fckTEdtjMDNInQIpySYbIOXkDaLGc1CU3pXw3txy9y0oRqSa5W1hl9SlYExHQWsUgtQogvyzaXK_VJCIkW4AzHzPWvtzwma_MTctCVJ9-NGr_JGejEtCbld9hb7QRBLfc9hnt4bXFKDwnmfojSr5cbf7Hrra5-23k9yiyXSl2FxicnU_vhrTAw",
       "e": "AQAB",
       "kid": "segue-ecw-nonprod-20260828",
-      "use": "sig",
-      "alg": "RS384"
+      "alg": "RS384",
+      "use": "sig"
     }
   ]
 }
