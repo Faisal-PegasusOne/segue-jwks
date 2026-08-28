@@ -16,21 +16,13 @@
       "n": "uMFduX0ScrC69wvH38TVbcgS0dZPXankJuAyckLUSsFLn__8EMuiuHmWb1K8aCxLtTobzvAEfm_62hGgZbvPZiCZQ6n9j7dpgvnc4TWe70HGWJ2QszwuL4HJwrFCp0OgCig3kiYjiQv-Ep8edZWwYgqMq15KSqaHuQx2c26iU3j4yznn9feBF8GcBxh8WukC3OgaY4VkFvt7DrP2beVzR14H0IoxBLnl3UdUyK19GEl0bbVJ1LNC7meNwvz6gX0KqoSVus_yxKwxEb0Ptd_Qkjkuc5Gs-UWcvHtqgnIPoZhNPANpV99H9vEdbE0_wFyCOSE-DCoUe65SDO2jNpOipQ",
       "e": "AQAB"
     },
-    {
-      "kty": "RSA",
-      "n": "2hCoWLjEmK9IJdi2rYUpTh0jqrYUjFekUSzgdL3BH4TmprLfSku-6qlWBU-LwyyADyO2hkFtJFgcW9keW4Ri3373QJhVMkgbAXyJ7mB-p9rFphvmnRBNU9cS56iH6BX4gV4U7EEEMxA-_ag4CY0J5vKWyxLXT7hG-KoY_TjH338Z6HtQ-wp8FOSmGO7Zjs0esh7fYCq522vf3kXz_jrW6cPIlrExRY0qycBfK9FMnMXDTxTDzla58yqSCF252C6XF3WGIxwLoEEHm0Xkad-mmLkH3-hbWeTZqpI9W4upG3Xl8PitElVdHtJAJblkhbvf8RkbW92yjwFYrdjky1rD_w",
-      "e": "AQAB",
-      "kid": "segue-ecw-nonprod-20260821",
-      "alg": "RS384",
-      "use": "sig"
-    },
 	{
       "kty": "RSA",
       "n": "_jLEp8BwXDhVN8W7wDxgY-Lp9affzfwkX0UThT_GpugmmrO5DtJnKd2RshKKek_LEozMmhiGcieoRYNTbZsHTKpey7h8_V9BgHQsYj60juFGktf8Gi1QOBksFtFUpIJjoS4qypEpZvgA-gEXsPhkAcmWXhvRW-gAk9pFbOrG7fJcGWLlbdT25XLolfRSaHt0dM6bSxeaZkKZSVkUjfvVPtsxdeZdl7sMePRw5hT4wlpsdPV-wdLG3xIYdspntTzwPxNCd-Iaf3yCXlxenrH9y-4r2gQ73t5posLQ2X-X_VVBJ2LPgO02gjY_DGFh5-SHhRrM5V4ijGgT2FCXLZuNxw",
       "e": "AQAB",
-      "kid": "segue-ecw-nonprod-20260821",
-      "alg": "RS384",
-      "use": "sig"
+      "kid": "segue-ecw-nonprod-20260828",
+      "use": "sig",
+      "alg": "RS384"
     }
   ]
 }
