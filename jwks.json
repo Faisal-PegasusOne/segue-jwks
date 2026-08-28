@@ -23,6 +23,14 @@
       "kid": "segue-ecw-nonprod-20260821",
       "alg": "RS384",
       "use": "sig"
+    },
+	{
+      "kty": "RSA",
+      "n": "_jLEp8BwXDhVN8W7wDxgY-Lp9affzfwkX0UThT_GpugmmrO5DtJnKd2RshKKek_LEozMmhiGcieoRYNTbZsHTKpey7h8_V9BgHQsYj60juFGktf8Gi1QOBksFtFUpIJjoS4qypEpZvgA-gEXsPhkAcmWXhvRW-gAk9pFbOrG7fJcGWLlbdT25XLolfRSaHt0dM6bSxeaZkKZSVkUjfvVPtsxdeZdl7sMePRw5hT4wlpsdPV-wdLG3xIYdspntTzwPxNCd-Iaf3yCXlxenrH9y-4r2gQ73t5posLQ2X-X_VVBJ2LPgO02gjY_DGFh5-SHhRrM5V4ijGgT2FCXLZuNxw",
+      "e": "AQAB",
+      "kid": "segue-ecw-nonprod-20260821",
+      "alg": "RS384",
+      "use": "sig"
     }
   ]
 }
