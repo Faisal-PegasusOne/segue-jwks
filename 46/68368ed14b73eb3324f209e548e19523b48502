@@ -1,0 +1,14 @@
+jwks.json
+  h_9042ea4abaf2fc 23-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "4668368ed14b73eb3324f209e548e19523b48502",
+  "prompts": {},
+  "humans": {
+    "h_9042ea4abaf2fc": {
+      "author": "Faisal-GrowthZone <faisal.khan@growthzone.com>"
+    }
+  }
+}
