@@ -23,6 +23,14 @@
       "kid": "segue-ecw-nonprod-20260828",
       "alg": "RS384",
       "use": "sig"
+    },
+	{
+      "kty": "RSA",
+      "n": "tBbrkLsUq8Q517pah7LYojHCrf9JWAIqabTfJlVSGbtKeBZEGGDi9On-4CO6GwlWFEGI7R2Xk2OMvbXn99ACjQpJUCY9AlQ5q0Du97XXwgRNYkim1K3INpeLBGQriKY0prIftFsl2ASXhZuwvn1eKrLcqjrw09bu9-rjdF59T8xpldSB4GVNe5aGaCDlCIOMOvCngbNKheKzVvzUkMndkypdvdDT4TXljZ3pRTjzjfQy_idomkZBlYaFGF3bFnftCtxq7Xqt1DdYguinHSMiZn_CyaDbVCwwtWJzrMOYJ02qGywzraCDt7MUm8R4TEcvKA-6AyGmg-DlPgGfzfBTUQ",
+      "e": "AQAB",
+      "kid": "segue-ecw-nonprod-20260903",
+      "use": "sig",
+      "alg": "RS384"
     }
   ]
 }
