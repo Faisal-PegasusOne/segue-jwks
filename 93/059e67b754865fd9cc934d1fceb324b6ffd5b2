@@ -1,0 +1,14 @@
+jwks.json
+  h_b3ad88a759b077 34-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "93059e67b754865fd9cc934d1fceb324b6ffd5b2",
+  "prompts": {},
+  "humans": {
+    "h_b3ad88a759b077": {
+      "author": "Faisal-PegasusOne <faisal.khan@pegasusone.com>"
+    }
+  }
+}
